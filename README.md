@@ -1,24 +1,24 @@
-# profile
+# プロフィール(どんな言語やってたんですか？みたいな質問用)
 
 ## 言語
 【メイン】  
-C#(.Net Framework,.Net Core,.NET5,WPF,Blazor,Xamarin)  
-Python(基本使うのはPython3系, pythonでwebを作らないといけないときはDjango)  
+- C#(.Net Framework,.Net Core,.NET5,WPF,Blazor,Xamarin)  
+- Python(基本使うのはPython3系, pythonでwebを作らないといけないときはDjango)  
   
 【サブ】  
-Ruby  
-GAS(ほぼJavascript)  
-Java  
-C  
-VBA  
-APEX (Salesforce)  
+- Ruby  
+- GAS(ほぼJavascript)  
+- Java  
+- C  
+- VBA  
+- APEX (Salesforce)  
   
 【たまに】  
-Swift  
+- Swift  
   
 ## ライブラリ
-C#：色々  
-Python：sk-learn,keras,tensorflow,lgbm,beautiful-soup,seleniumなど色々  
+- C#：色々  
+- Python：sk-learn,keras,tensorflow,lgbm,beautiful-soup,seleniumなど色々  
 書いてたらキリがないので省きます。  
   
 ## コーディング
@@ -32,10 +32,11 @@ WebはMVC系かSPAでサーバーサイドはDDDな作りを意識します。
 
 ## 最近の職務
 最近は業務改善などDX推進系のタスクがメイン  
-・Salesforce (APEX,Visualforce)  
-・AWSのLambdaとかその他周辺サービス  
-・GAS  
-・Python  
+  
+- Salesforce (APEX,Visualforce)  
+- AWSのLambdaとかその他周辺サービス  
+- GAS  
+- Python  
 あたりを良く触ります。  
 
 業務プロセス改善及びデータ統制、データの民主化を目的とした  
@@ -58,20 +59,22 @@ Windowsの場合はC#でseleniumを使います。
 データ分析では経営課題を発見し、経営アクションをとるための分析を行っていました。  
 学術的に高等なことはせず、全体的に簡単な集計しかしてないです。  
   
-・売り上げ分析  
-　例えば、売り上げが前年度比率で95%で下がっている。この原因と解決策が知りたい。  
- ⇒　年代別で分析するとどうやら50代が落ち込んでいて、来客率は変わってませんが50代の購入率が下がっている。これが原因  
- ⇒　50代に刺さる商品開発や商品の陳列、ポップを増やしましょう  
- 超ざっくりこんな感じの分析と提案  
+- 売り上げ分析  
+　具体例  
+  売り上げが前年度比率で95%で下がっている。この原因と解決策が知りたい。といった相談があった場合。  
+ ⇒　原因調査：年代別で分析するとどうやら50代が落ち込んでいて、来客率は変わってませんが50代の購入率が下がっていた。  
+ ⇒　課題設定：50代の購入率
+ ⇒　提案：50代に刺さる商品開発や商品の陳列、ポップを増やしましょう。  
+ 超ざっくりこんな感じの分析と提案を行う  
  
  ※だいたいは原因を探れるようなデータがないか、  
  　データがカオスすぎてデータを整形している間にもうビジネスモデルが変化していて、分析自体不要になることがある。  
   
-・最適在庫の分析  
+- 最適在庫の分析  
   
-・過剰在庫商品分析  
+- 過剰在庫商品分析  
   
-・機会損失している商品分析  
+- 機会損失している商品分析  
   
 等々  
   
@@ -86,8 +89,7 @@ Windowsの場合はC#でseleniumを使います。
   
   
 ## 使いたかったけど使えてないサービス
-BigQuery  
-Tableau  
-Elastic Search  
-Kibana  
-
+- BigQuery  
+- Tableau  
+- Elastic Search  
+- Kibana  
